@@ -1,5 +1,3 @@
-# BaekJoon 11399 ATM
-```
 #include <iostream>
 using namespace std;
 

@@ -1,5 +1,3 @@
-# BaekJoon_1463_1로만들기
-```
 #include <iostream>
 using namespace std;
 

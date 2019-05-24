@@ -1,5 +1,3 @@
-# Baekjoon_11057_C++
-```
 #include <iostream>
 using namespace std;
 
@@ -29,4 +27,3 @@ void calc(int (*ary)[10], int N) {
 	}
 	
 }
-```
